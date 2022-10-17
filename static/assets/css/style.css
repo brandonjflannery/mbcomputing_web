@@ -1161,7 +1161,7 @@ section {
 }
 
 .team .member {
-  margin-bottom: 20px;
+  margin-bottom: 60px;
   overflow: hidden;
   border-radius: 5px;
   background: #fff;
@@ -1227,8 +1227,7 @@ section {
 }
 
 .team .member .member-info p {
-  font-style: italic;
-  font-size: 14px;
+  font-size: 10px;
   line-height: 26px;
   color: #777777;
 }
