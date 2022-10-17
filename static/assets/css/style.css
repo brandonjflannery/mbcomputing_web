@@ -1161,7 +1161,7 @@ section {
 }
 
 .team .member {
-  width: fit-content;
+  width: 500px;
   margin-bottom: 60px;
   overflow: hidden;
   border-radius: 5px;
@@ -1229,7 +1229,7 @@ section {
 
 .team .member .member-info p {
   font-size: 13px;
-  line-height: 20px;
+  line-height: 26px;
   color: #777777;
 }
 
